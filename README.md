@@ -1,4 +1,4 @@
-# Off-Platform Project: Generative Chatbot
+# Project: Generative Chatbot
 
 Apply deep-learning knowledge and chatbot to build an open-domain generative chatbot.
 
