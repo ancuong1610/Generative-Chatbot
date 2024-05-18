@@ -51,5 +51,3 @@ Additionally, you should have three .txt files of Twitter data: `love.txt`, `cat
 2. In `chat.py`, create a `ChatBot` class with methods as described in the project guidelines.
 3. At the end of `chat.py`, test out the chatbot by instantiating a `ChatBot` object and calling `.start_chat()` on it.
 
-Congratulations on creating a generative chatbot using real conversational data!
-
